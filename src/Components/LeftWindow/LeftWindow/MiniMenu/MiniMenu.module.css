@@ -1,23 +1,24 @@
-
-.Icon, .Icon1, .Icon2{
-    vertical-align: middle;
-    width: 2.4vw;
-    height: auto;
-    stroke-width: 1.5px;
+.Icon,
+.Icon1,
+.Icon2 {
+  vertical-align: middle;
+  width: 2.4vw;
+  height: auto;
+  stroke-width: 1.5px;
 }
 
-.MiniMenu li:first-child{
-    margin-left: 0vw;
-  }
+.MiniMenu li:first-child {
+  margin-left: 0vw;
+}
 
 a {
-    text-decoration: none;
-    color: inherit;
-  }
+  text-decoration: none;
+  color: inherit;
+}
 
-  .MiniMenu li:hover{
-    text-shadow: rgb(0, 0, 0) 3px 0 10px;
-    filter: drop-shadow(3px 3px 8px rgba(0, 0, 0, 0.8));
-    transform: scale(1.06); 
-    font-size: 105%;
-  }
+.MiniMenu li:hover {
+  text-shadow: rgb(0, 0, 0) 3px 0 10px;
+  filter: drop-shadow(3px 3px 8px rgba(0, 0, 0, 0.8));
+  transform: scale(1.06);
+  font-size: 105%;
+}
